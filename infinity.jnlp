@@ -5,9 +5,9 @@
       codebase="http://crescent.github.com/" 
       href="infinity.jnlp">
    <information>
-      <title>Notepad Demo</title>
-      <vendor>The Java(tm) Tutorial: Sun Microsystems, Inc.</vendor>
-      <description>Notepad Demo</description>
+      <title>Infinity</title>
+      <vendor></vendor>
+      <description>Infinity</description>
       <homepage href="http://java.sun.com/docs/books/tutorial/deployment/webstart/running.html"/>
       <description kind="short">Beyond Infinity</description>
       <offline-allowed/>
@@ -17,5 +17,5 @@
 	<j2se version="1.6+"
 	      href="http://java.sun.com/products/autodl/j2se"/>
    </resources>
-   <application-desc main-class="Infility"/>
+   <application-desc main-class="infinity.gui.GameWindow"/>
 </jnlp>
