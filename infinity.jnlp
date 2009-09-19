@@ -6,7 +6,7 @@
       href="infinity.jnlp">
    <information>
       <title>Infinity</title>
-      <vendor></vendor>
+      <vendor>Crescent</vendor>
       <description>Infinity</description>
       <homepage href="http://java.sun.com/docs/books/tutorial/deployment/webstart/running.html"/>
       <description kind="short">Beyond Infinity</description>
